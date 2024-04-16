@@ -57,7 +57,7 @@ const Footer = () => {
             </a>
           </span>
         </div>
-        <div className="credit">Made By : Amit Kumar</div>
+        <div className="credit">Made By : Priyanka Kumari</div>
       </ContentWrapper>
     </footer>
   );
